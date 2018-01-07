@@ -1,0 +1,24 @@
+{
+  "name": "bixi-crypto",
+  "version": "1.0.0",
+  "description": "Crypto in motion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jzarca01/BIXI-Crypto.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jzarca01/BIXI-Crypto/issues"
+  },
+  "homepage": "https://github.com/jzarca01/BIXI-Crypto#readme",
+  "dependencies": {
+    "async": "^2.6.0",
+    "noble-device": "maxnowack/noble-device#patch-1",
+    "node-fetch": "^1.7.3"
+  }
+}
