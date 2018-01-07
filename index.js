@@ -1,6 +1,4 @@
-const async = require("async");
 const fetch = require('node-fetch');
-
 const BIXI = require('./lib/BIXI');
 
 const BIXIServiceUUID = "deadbeef8165c3419aeb4ba40df63ace"
